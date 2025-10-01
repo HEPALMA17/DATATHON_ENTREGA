@@ -1,0 +1,89 @@
+================================================================================
+                    ✅ PASTA PRONTA PARA UPLOAD!
+================================================================================
+
+📊 TAMANHO TOTAL: 0.84 MB ✅ (GitHub aceita perfeitamente!)
+
+================================================================================
+                    🚀 COMO FAZER UPLOAD
+================================================================================
+
+1. Acesse: https://github.com/new
+
+2. Crie repositório:
+   Nome: decision-ai-datathon
+   Descrição: Sistema de Recrutamento Inteligente com IA
+   ☑️ Public ou Private
+   
+3. NÃO marque nada (README, gitignore, license)
+
+4. Clique: Create repository
+
+5. Na página do repositório, clique: "uploading an existing file"
+
+6. SELECIONE TODOS OS ARQUIVOS DESTA PASTA:
+   - Pressione Ctrl+A (seleciona tudo)
+   - OU arraste todos os arquivos/pastas
+
+7. Message: "Initial commit - Decision AI"
+
+8. Clique: Commit changes
+
+9. ✅ PRONTO! Código no GitHub!
+
+================================================================================
+                    📁 ARQUIVOS INCLUÍDOS
+================================================================================
+
+✅ app/          - Aplicação Streamlit (SEM modelos .joblib)
+✅ src/          - Todo código Python
+✅ notebooks/    - Jupyter notebooks
+✅ tests/        - Testes
+✅ models/       - README (modelos não incluídos)
+✅ README.md     - Documentação
+✅ requirements.txt - Dependências
+✅ config.py     - Configurações
+✅ LICENSE       - Licença MIT
+
+================================================================================
+                    ❌ ARQUIVOS EXCLUÍDOS
+================================================================================
+
+❌ applicants.json (7.6 MB) - Muito grande
+❌ vagas.json (4.7 MB) - Muito grande
+❌ prospects.json (2.5 MB) - Muito grande
+❌ candidatos_consolidados.csv (13 MB) - Muito grande
+❌ Modelos .joblib (216 MB cada) - Muito grande
+❌ Backup de modelos
+❌ Scripts de preparação (.cmd)
+
+================================================================================
+                    ⚠️ E OS DADOS?
+================================================================================
+
+Os dados NÃO estão nesta pasta pois são muito grandes para GitHub.
+
+OPÇÕES:
+
+1. Hospedar no Google Drive e compartilhar link no README
+2. Criar dados de amostra menores
+3. Usar GitHub Releases (aceita até 2 GB)
+4. Gerar dados sintéticos para demo
+
+================================================================================
+                    ✅ PRÓXIMO PASSO
+================================================================================
+
+AGORA FAÇA O UPLOAD:
+
+1. Selecione TODOS os arquivos desta pasta (Ctrl+A)
+2. Arraste para o GitHub
+3. Commit!
+
+PRONTO! Seu código estará no GitHub! 🎉
+
+================================================================================
+
+
+
+

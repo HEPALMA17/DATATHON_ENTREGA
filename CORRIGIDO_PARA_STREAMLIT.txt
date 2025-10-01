@@ -1,0 +1,73 @@
+================================================================================
+           ARQUIVOS CORRIGIDOS PARA STREAMLIT CLOUD
+================================================================================
+
+✅ O QUE FOI CORRIGIDO:
+
+1. requirements.txt - Atualizado e otimizado
+   - Removidas versões específicas que causavam erro
+   - Removidas dependências desnecessárias (jupyter, pytest, etc.)
+   - Adicionadas versões compatíveis com Streamlit Cloud
+   
+2. .streamlit/config.toml - Criado
+   - Configurações otimizadas para Streamlit Cloud
+   
+3. packages.txt - Criado
+   - Dependências do sistema necessárias
+
+================================================================================
+                    🚀 COMO FAZER O DEPLOY AGORA
+================================================================================
+
+PASSO 1: Fazer Upload no GitHub
+   1. Selecione TODOS os arquivos desta pasta (Ctrl+A)
+   2. Arraste para o GitHub
+   3. Commit: "Fix requirements for Streamlit Cloud"
+   4. ✅ Pronto!
+
+PASSO 2: Deploy no Streamlit Cloud
+   1. Acesse: https://streamlit.io/cloud
+   2. Login com GitHub
+   3. New app
+   4. Repository: seu-usuario/decision-ai-datathon
+   5. Branch: main
+   6. Main file: app/app.py
+   7. Deploy!
+   
+PASSO 3: Aguarde
+   - Instalação: ~3-5 minutos
+   - Se der erro, veja logs e me avise
+
+================================================================================
+                    ✅ ARQUIVOS IMPORTANTES
+================================================================================
+
+requirements.txt - Dependências Python corrigidas
+.streamlit/config.toml - Configurações Streamlit
+packages.txt - Dependências sistema
+applicants.json - Dados de amostra (100 registros)
+vagas.json - Dados de amostra (50 registros)
+prospects.json - Dados de amostra (100 registros)
+
+================================================================================
+                    ⚠️ SE AINDA DER ERRO
+================================================================================
+
+Erro comum: "Module not found"
+Solução: Adicione o módulo no requirements.txt
+
+Erro comum: "Out of memory"
+Solução: Reduza mais os dados de amostra
+
+Erro comum: "NLTK data not found"
+Solução: Já está configurado para baixar automaticamente
+
+================================================================================
+
+🎉 AGORA DEVE FUNCIONAR! Faça o upload e teste!
+
+================================================================================
+
+
+
+
